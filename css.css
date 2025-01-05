@@ -1,0 +1,18 @@
+p {
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
+img {
+    border: 5px solid darkblue;
+    border-radius: 10px;
+    animation: spin 4s linear infinite;
+}
+
+
+
+div.mySlides.w3-display-container.w3-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
